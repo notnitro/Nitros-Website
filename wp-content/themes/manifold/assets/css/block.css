@@ -91,13 +91,13 @@ color: var(--wp--preset--color--foreground-alt);
   box-shadow: 0px 6px 30px 0px rgb(71, 5, 255, 0.1);
 }
 .manifold-pro-custom-list {
-  list-style: url(../../../../plugins/walker-core/admin/images/manifold/list-style.png);
+  list-style: url(https://notnitro.github.io/Nitros-Website/wp-content/plugins/walker-core/admin/images/manifold/list-style.png);
 }
 .manifold-pro-custom-list > li {
   padding: 5px 0px;
 }
 .manifold-pro-prices-group:hover .manifold-pro-custom-list {
-  list-style: url(../../../../plugins/walker-core/admin/images/manifold/list-style-hover.png);
+  list-style: url(https://notnitro.github.io/Nitros-Website/wp-content/plugins/walker-core/admin/images/manifold/list-style-hover.png);
 }
 .manifold-pro-testimonial-group {
   position: relative;
