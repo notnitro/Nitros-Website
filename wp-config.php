@@ -45,6 +45,12 @@ define( 'DB_CHARSET', 'utf8mb4' );
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
 
+/** The Wordpress URL BACKUP: https://localhost/nitros-website*/
+define( 'WP_HOME', 'https://notnitro.github.io/Nitros-Website/' );
+
+/** The Site URL */
+define( 'WP_SITEURL', 'https://notnitro.github.io/Nitros-Website/' );
+
 /**#@+
  * Authentication unique keys and salts.
  *
