@@ -46,10 +46,10 @@ define( 'DB_CHARSET', 'utf8mb4' );
 define( 'DB_COLLATE', '' );
 
 /** The Wordpress URL BACKUP: https://localhost/nitros-website*/
-define( 'WP_HOME', 'https://notnitro.github.io/Nitros-Website/' );
+define( 'WP_HOME', 'https://localhost/nitros-website' );
 
 /** The Site URL */
-define( 'WP_SITEURL', 'https://notnitro.github.io/Nitros-Website/' );
+define( 'WP_SITEURL', 'https://localhost/nitros-website' );
 
 /**#@+
  * Authentication unique keys and salts.
